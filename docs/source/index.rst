@@ -6,6 +6,10 @@
 Welcome to learningNotes's documentation!
 =========================================
 
+this is main stream
+
+
+
 .. toctree::
    :maxdepth: 2
    :caption: mysql:
