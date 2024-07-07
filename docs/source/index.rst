@@ -6,7 +6,8 @@
 Welcome to learningNotes's documentation!
 =========================================
 
-this is main stream
+here is the hyperlink to section to readthedocs
+see :ref:`how to write rst file <writingfile>`
 
 
 
