@@ -1,7 +1,21 @@
 quick start
 ===========
 
+this is the good tutorial for beginners
 
+.. raw:: html
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/DSIuLnoKLd8?si=h_piv-6dmikOLFoS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+sphnix workflow
+---------------
+
+.. image:: images/sphinx_workflow.png
+	:alt: sphinx_workflow
+	:align: center
+	:width: 80 %
+	:name: sphinx_workflow
 
 install
 -------

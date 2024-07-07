@@ -14,7 +14,13 @@ release = '1.0.0'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = [
+	 'sphinx_copybutton',
+]
+
+# 可选配置：自定义按钮样式
+copybutton_prompt_text = "$ "  # 定义要去除的命令提示符
+copybutton_prompt_is_regexp = True  # 告诉扩展这是一个正则表达式
 
 templates_path = ['_templates']
 exclude_patterns = []
@@ -26,3 +32,4 @@ exclude_patterns = []
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
+
