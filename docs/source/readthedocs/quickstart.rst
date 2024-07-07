@@ -1,0 +1,8 @@
+quick start
+===========
+
+install
+-------
+
+configure
+---------
