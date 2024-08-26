@@ -11,18 +11,28 @@ see :ref:`how to write rst file <writingfile>`
 
 
 
-.. toctree::
+.. toctree:: 
    :maxdepth: 2
-   :caption: mysql:
+   :caption: cmake
+   
 
-   mysql/basicSetup
+   cmake/basic
+   
 
 .. toctree:: 
    :maxdepth: 2
    :caption: readthedocs
+   :hidden:
 
    readthedocs/quickstart
    
+
+.. toctree::
+   :maxdepth: 2
+   :caption: mysql:
+   :hidden:
+
+   mysql/basicSetup
 
 
 
