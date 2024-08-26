@@ -16,7 +16,7 @@ release = '1.0.0'
 
 extensions = [
 	 'sphinx_design',
-	 'huro',
+	 'furo',
 	 'sphinx_copybutton',
 ]
 
