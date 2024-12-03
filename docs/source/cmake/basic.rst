@@ -15,6 +15,7 @@ cmake basic
     cmake --build build
 
 **embedded asciinema recording file**
-.. raw::html
+
+.. raw:: html
 
     <script src="https://asciinema.org/a/FHX1EZapmlPSlwJV0rpEvjeSN.js" id="asciicast-FHX1EZapmlPSlwJV0rpEvjeSN" async="true"></script>
