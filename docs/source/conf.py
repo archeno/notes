@@ -17,6 +17,7 @@ release = '1.0.0'
 extensions = [
 	 'sphinx_design',
 	 'sphinx_copybutton',
+	 "sphinx.ext.imgconverter", 
 ]
 
 # 可选配置：自定义按钮样式
